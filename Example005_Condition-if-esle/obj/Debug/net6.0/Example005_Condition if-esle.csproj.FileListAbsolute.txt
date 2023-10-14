@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\Examples\Example005_Condition if-esle\bin\Debug\net6.0\Example005_Condition if-esle.exe
+C:\Users\Виктория\Desktop\Examples\Example005_Condition if-esle\bin\Debug\net6.0\Example005_Condition if-esle.deps.json
+C:\Users\Виктория\Desktop\Examples\Example005_Condition if-esle\bin\Debug\net6.0\Example005_Condition if-esle.runtimeconfig.json
+C:\Users\Виктория\Desktop\Examples\Example005_Condition if-esle\bin\Debug\net6.0\Example005_Condition if-esle.dll
+C:\Users\Виктория\Desktop\Examples\Example005_Condition if-esle\bin\Debug\net6.0\Example005_Condition if-esle.pdb
+C:\Users\Виктория\Desktop\Examples\Example005_Condition if-esle\obj\Debug\net6.0\Example005_Condition if-esle.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\Examples\Example005_Condition if-esle\obj\Debug\net6.0\Example005_Condition if-esle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\Examples\Example005_Condition if-esle\obj\Debug\net6.0\Example005_Condition if-esle.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\Examples\Example005_Condition if-esle\obj\Debug\net6.0\Example005_Condition if-esle.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\Examples\Example005_Condition if-esle\obj\Debug\net6.0\Example005_Condition if-esle.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Examples\Example005_Condition if-esle\obj\Debug\net6.0\Example005_Condition if-esle.dll
+C:\Users\Виктория\Desktop\Examples\Example005_Condition if-esle\obj\Debug\net6.0\refint\Example005_Condition if-esle.dll
+C:\Users\Виктория\Desktop\Examples\Example005_Condition if-esle\obj\Debug\net6.0\Example005_Condition if-esle.pdb
+C:\Users\Виктория\Desktop\Examples\Example005_Condition if-esle\obj\Debug\net6.0\Example005_Condition if-esle.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\Examples\Example005_Condition if-esle\obj\Debug\net6.0\ref\Example005_Condition if-esle.dll
